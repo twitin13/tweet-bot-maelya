@@ -23,7 +23,7 @@ https://spf.shopee.co.id/8zxznFng9Y
 list rekomendasi resto lainnya:
 https://spf.shopee.co.id/Lg1YfWMXc
 
-kode promo gofood grabfood gojek go grab shopee food
+kode promo gofood grabfood gojek go grab shopee food amanda zahra senin
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -40,4 +40,5 @@ kode promo gofood grabfood gojek go grab shopee food
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
