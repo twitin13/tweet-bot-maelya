@@ -13,14 +13,17 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-YOSHINOYA Shopeefood CUMA 100 PERAK?! 🤯
-Khusus Paket Hot Deal, bisa pick up, maksimal 1 aja ya~
+KLAIM SHOPEEFOOD DISKON 100% HARI INI
 
-Cepetan sebelum habis 👇👇
-https://spf.shopee.co.id/1VqgYH9GiM
-https://spf.shopee.co.id/1VqgYH9GiM
+minbel 0, semua resto ‼️
 
-t. daget gofood grabfood kode promo go grab shopee food sfood gojek
+klaim voucher di resto ini
+https://spf.shopee.co.id/8zxznFng9Y
+
+list rekomendasi resto lainnya:
+https://spf.shopee.co.id/Lg1YfWMXc
+
+kode promo gofood grabfood gojek go grab shopee food
 `;
 
     // 📸 Upload 1 gambar dari repo
