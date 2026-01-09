@@ -13,17 +13,15 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-KLAIM SHOPEEFOOD DISKON 100% HARI INI
+🥪🍟 Promo resto makin hemat!
+ShopeeFood diskon 70%  ✨
+Min. 30rb → diskon s.d. 50rb
 
-minbel 0, semua resto ‼️
+👉 Buruan klaim:
+https://spf.shopee.co.id/7pmqrX0q7L
+https://spf.shopee.co.id/7pmqrX0q7L
 
-klaim voucher di resto ini
-https://spf.shopee.co.id/8zxznFng9Y
-
-list rekomendasi resto lainnya:
-https://spf.shopee.co.id/Lg1YfWMXc
-
-kode promo gofood grabfood gojek go grab shopee food amanda zahra senin
+t. gofood grabfood kode Jumat Sabtu malam minggu go grab shopee food sfood daget gojek gratis ongkir voucher 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -40,5 +38,6 @@ kode promo gofood grabfood gojek go grab shopee food amanda zahra senin
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
